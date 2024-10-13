@@ -500,3 +500,6 @@ Este motor será instalado a una distancia de 35m del tablero de circuito alimen
 ![Tabla_ampacity](Tablas_Referencias/Tabla-310.15B16.jpg)
 
 </div>
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
